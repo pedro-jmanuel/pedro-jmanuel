@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedro-jmanuel
 - 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning Vue.js 
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 How to reach me, pedro.jmanuel@hotmail.com
 
