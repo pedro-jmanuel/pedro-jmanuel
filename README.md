@@ -6,7 +6,6 @@
 <img align="right" alt="GIF" src="https://github.com/pedro-jmanuel/pedro-jmanuel/blob/main/code.gif" width="500" height="320" />
 <div>
 <a href="https://github.com/pedro-jmanuel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jmanuel&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-jmanuel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!---
