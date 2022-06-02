@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @pedro-jmanuel
-- 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning Vue.js 
-- 💞️ I’m looking to collaborate on Javascript projects
-- 📫 How to reach me, pedro.jmanuel@hotmail.com
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my Profile.</h1>
 
+- 👋 Hi, I’m @pedro-jmanuel
+- 👀 I’m interested in web development.
+- 📫 How to reach me, pedro.jmanuel@hotmail.com
+<img align="right" alt="GIF" src="https://github.com/pedro-jmanuel/pedro-jmanuel/blob/main/code.gif" width="500" height="320" />
 <div>
 <a href="https://github.com/pedro-jmanuel">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jmanuel&layout=compact&langs_count=7&theme=dracula"/>
