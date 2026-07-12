@@ -43,7 +43,7 @@ I design, develop, and maintain integration solutions connecting distributed ent
 
 ## 🌐 Languages
 
-- 🇵🇹 Portuguese — Native
+- PT Portuguese — Native
 - EN English — Intermediate
 
 ### 📫 Let's Connect
