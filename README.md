@@ -3,8 +3,6 @@
 **Integration Developer** specialized in enterprise system integration, API management, and messaging solutions.
 
 📍 Luanda, Angola
-📧 pedro.manuel.dev@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/pedro-jmanuel)
 
 ---
 
@@ -38,8 +36,8 @@ I design, develop, and maintain integration solutions connecting distributed ent
 
 ## 🎓 Education
 
-- **B.Sc. in Computer Science** — Universidade Agostinho Neto (2018 – 2024)
-- **Technician in Electronics and Telecommunications** — Instituto de Telecomunicações (2015 – 2017)
+- **B.Sc. in Computer Science** — Universidade Agostinho Neto
+- **Technician in Electronics and Telecommunications** — Instituto de Telecomunicações
 
 ---
 
