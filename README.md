@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Manuel 👋
 
-**Integration Developer** specialized in enterprise system integration, API management, and messaging solutions built on IBM technologies.
+**Integration Developer** specialized in enterprise system integration, API management, and messaging solutions.
 
 📍 Luanda, Angola
 📧 pedro.manuel.dev@gmail.com
