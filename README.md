@@ -30,7 +30,7 @@ I design, develop, and maintain integration solutions connecting distributed ent
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-## 🎓 Certifications & Training
+## 🎓 Certifications
 
 - **IBM Certified Developer** – App Connect Enterprise v12.0
 
@@ -44,7 +44,7 @@ I design, develop, and maintain integration solutions connecting distributed ent
 ## 🌐 Languages
 
 - 🇵🇹 Portuguese — Native
-- 🇬🇧 English — Intermediate
+- EN English — Intermediate
 
 ### 📫 Let's Connect
 
