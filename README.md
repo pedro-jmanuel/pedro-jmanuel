@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I design, develop, and maintain integration solutions connecting distributed enterprise systems, with hands-on experience in the banking sector. My work focuses on building secure, scalable, and high-performance integrations using **IBM App Connect Enterprise (ACE)**, **IBM API Connect (APIC)**, **IBM MQ**, and **IBM Cloud Pak for Integration**.
+I design, develop, and maintain integration solutions connecting distributed enterprise systems, with hands-on experience in the banking sector. My work focuses on building secure, scalable, and high-performance integrations using **IBM App Connect Enterprise (ACE)**, **IBM API Connect (APIC)** and **IBM Cloud Pak for Integration**.
 
 ## 🛠️ Tech Stack
 
